@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{528AEBC1-3B34-4374-B155-E00C6404CDD3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BigramCounter/Program.cs">
+    <Files>
+      <File FileName="BigramCounter/Program.cs" Line="33" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BigramCounter" expanded="True">
+            <Node name="BigramCounter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BigramCounter PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

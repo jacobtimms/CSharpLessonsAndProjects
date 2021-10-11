@@ -1,0 +1,12 @@
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.deps.json
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.json
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.dev.json
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.dll
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.pdb
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.csproj.AssemblyReference.cache
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfoInputs.cache
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfo.cs
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.csproj.CoreCompileInputs.cache
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.dll
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.pdb
+/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.genruntimeconfig.cache

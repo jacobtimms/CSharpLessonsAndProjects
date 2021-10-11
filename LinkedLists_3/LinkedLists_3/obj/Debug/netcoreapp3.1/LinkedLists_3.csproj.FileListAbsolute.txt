@@ -1,0 +1,12 @@
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/bin/Debug/netcoreapp3.1/LinkedLists_3.deps.json
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/bin/Debug/netcoreapp3.1/LinkedLists_3.runtimeconfig.json
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/bin/Debug/netcoreapp3.1/LinkedLists_3.runtimeconfig.dev.json
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/bin/Debug/netcoreapp3.1/LinkedLists_3.dll
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/bin/Debug/netcoreapp3.1/LinkedLists_3.pdb
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/Debug/netcoreapp3.1/LinkedLists_3.csproj.AssemblyReference.cache
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/Debug/netcoreapp3.1/LinkedLists_3.AssemblyInfoInputs.cache
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/Debug/netcoreapp3.1/LinkedLists_3.AssemblyInfo.cs
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/Debug/netcoreapp3.1/LinkedLists_3.csproj.CoreCompileInputs.cache
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/Debug/netcoreapp3.1/LinkedLists_3.dll
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/Debug/netcoreapp3.1/LinkedLists_3.pdb
+/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/Debug/netcoreapp3.1/LinkedLists_3.genruntimeconfig.cache

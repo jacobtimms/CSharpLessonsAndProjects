@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0357A5F4-BED4-47EA-9A24-08F4143DA4EB}|Default">
+  <MonoDevelop.Ide.ItemProperties.LinkedLists__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedLists_1/Program.cs">
+    <Files>
+      <File FileName="LinkedLists_1/Program.cs" Line="113" Column="6" />
+      <File FileName="LinkedLists_1/Interface.cs" />
+      <File FileName="LinkedLists_1/Linked List Class.cs" Line="22" Column="10" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinkedLists_1" expanded="True">
+            <Node name="LinkedLists_1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
