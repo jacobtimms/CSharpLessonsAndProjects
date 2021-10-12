@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj",
+      "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj",
       "projectName": "PhoneBook",
-      "projectPath": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj",
+      "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj",
       "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-      "outputPath": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/obj/",
+      "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/JacobTimms/.config/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dNmcQy+iTN9RD71kcUt3/PxcUYS4cTEudaWn5pTgPkBJJTpzJTPkEvig5ivcDIBAbzqgNj9WcAoqDfS7lK7jog==",
+  "dgSpecHash": "gM8ifWVJ6qCk6M4UTpDbKNcPrs3b4OLJtQAvlV6zm6pv+4R6qA/C8/5KGJ8Ythqu4kdhzqXj1hujrvuyy+3YEw==",
   "success": true,
-  "projectFilePath": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook.Testing/PhoneBook.Testing.csproj",
+  "projectFilePath": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook.Testing/PhoneBook.Testing.csproj",
   "expectedPackageFiles": [
     "/Users/JacobTimms/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
     "/Users/JacobTimms/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

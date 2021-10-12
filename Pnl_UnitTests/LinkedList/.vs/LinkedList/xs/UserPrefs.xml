@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{ED599236-022A-4BE1-8283-755F481872D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PnlTests/PnlTests1.cs">
+    <Files>
+      <File FileName="Pnl/Program.cs" Line="1" Column="1" />
+      <File FileName="Pnl/StrategyList.cs" />
+      <File FileName="Pnl/IStrategyReader.cs" />
+      <File FileName="Pnl/StrategyReader.cs" />
+      <File FileName="PnlTests/PnlTests1.cs" Line="26" Column="1" />
+      <File FileName="Pnl/StrategyPnl.cs" />
+      <File FileName="Pnl/Pnl.cs" />
+      <File FileName="Pnl/Capital.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinkedList" expanded="True">
+            <Node name="CsvPnl" expanded="True" />
+            <Node name="PnlTests" expanded="True">
+              <Node name="PnlTests1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LinkedList" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

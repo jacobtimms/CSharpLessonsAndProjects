@@ -3841,11 +3841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook.Testing/PhoneBook.Testing.csproj",
+      "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook.Testing/PhoneBook.Testing.csproj",
       "projectName": "PhoneBook.Testing",
-      "projectPath": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook.Testing/PhoneBook.Testing.csproj",
+      "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook.Testing/PhoneBook.Testing.csproj",
       "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-      "outputPath": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook.Testing/obj/",
+      "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook.Testing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -3860,8 +3860,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj": {
-              "projectPath": "/Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj"
+            "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj": {
+              "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/PhoneBook.csproj"
             }
           }
         }
