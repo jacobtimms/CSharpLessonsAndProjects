@@ -1,1 +1,1 @@
-A collective repo containing all of my projects and work from ongong C# Lessons.
+A collective repo containing all of my projects and work from ongoing C# Lessons.
