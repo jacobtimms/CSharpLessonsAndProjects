@@ -1,0 +1,13 @@
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/bin/Debug/netcoreapp3.1/FactoryExample.deps.json
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/bin/Debug/netcoreapp3.1/FactoryExample.runtimeconfig.json
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/bin/Debug/netcoreapp3.1/FactoryExample.runtimeconfig.dev.json
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/bin/Debug/netcoreapp3.1/FactoryExample.dll
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/bin/Debug/netcoreapp3.1/FactoryExample.pdb
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.csproj.AssemblyReference.cache
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.AssemblyInfoInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.AssemblyInfo.cs
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.csproj.CoreCompileInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.dll
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.pdb
+/Users/JacobTimms/REPOS/C# Lessons/FactoryExample/FactoryExample/obj/Debug/netcoreapp3.1/FactoryExample.genruntimeconfig.cache

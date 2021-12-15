@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A7F075D4-256A-433B-952A-E01BCF6C34AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Duplicates_Multithreading/Program.cs">
+    <Files>
+      <File FileName="Duplicates_Multithreading/Program.cs" Line="19" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Duplicates_Multithreading" expanded="True">
+            <Node name="Duplicates_Multithreading" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Duplicates__Multithreading PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

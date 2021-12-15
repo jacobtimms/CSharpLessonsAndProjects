@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F9FACB63-5CEB-42D5-8D16-625AF743A7BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BonsaiAPI/Controllers/ApiController.cs">
+    <Files>
+      <File FileName="BonsaiAPI/HasScopeRequirement.cs" Line="18" Column="1" />
+      <File FileName="BonsaiAPI/HasScopeHandler.cs" Line="27" Column="1" />
+      <File FileName="BonsaiAPI/Controllers/ApiController.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BonsaiAPI" expanded="True">
+            <Node name="BonsaiAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ApiController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BonsaiAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

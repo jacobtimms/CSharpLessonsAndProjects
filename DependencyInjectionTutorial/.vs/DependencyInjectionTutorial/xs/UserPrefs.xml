@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{41611B99-D8AF-47A4-8693-2CBD22ED3246}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjectionTutorial/IOperation.cs">
+    <Files>
+      <File FileName="DependencyInjectionTutorial/Program.cs" Line="38" Column="69" />
+      <File FileName="DependencyInjectionTutorial/IOperation.cs" Line="6" Column="36" />
+      <File FileName="DependencyInjectionTutorial/ITransientOperation.cs" />
+      <File FileName="DependencyInjectionTutorial/IScopedOperation.cs" />
+      <File FileName="DependencyInjectionTutorial/ISingletonOperation.cs" />
+      <File FileName="DependencyInjectionTutorial/DefaultOperation.cs" />
+      <File FileName="DependencyInjectionTutorial/OperationLogger.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyInjectionTutorial" expanded="True">
+            <Node name="DependencyInjectionTutorial" expanded="True">
+              <Node name="IOperation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DependencyInjectionTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

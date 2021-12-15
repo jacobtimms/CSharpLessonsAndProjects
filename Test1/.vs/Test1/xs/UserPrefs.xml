@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FC87C71C-DDED-4FEC-96AD-DB2F763A312F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test1/Startup.cs">
+    <Files>
+      <File FileName="Test1/Startup.cs" Line="42" Column="77" />
+      <File FileName="Test1/WeatherForecast.cs" />
+      <File FileName="Test1/Controllers/WeatherForecastController.cs" />
+      <File FileName="Test1/HasScopeRequirement.cs" />
+      <File FileName="Test1/HasScopeHandler.cs" />
+      <File FileName="Test1/Controllers/ApiController.cs" />
+      <File FileName="Test1/Program.cs" />
+      <File FileName="Test1/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test1" expanded="True">
+            <Node name="Test1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Test1 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

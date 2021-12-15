@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/Linq.csproj",
+      "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Linq/Linq/Linq.csproj",
       "projectName": "Linq",
-      "projectPath": "/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/Linq.csproj",
+      "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Linq/Linq/Linq.csproj",
       "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-      "outputPath": "/Users/JacobTimms/WEB DEV/C# Lessons/Linq/Linq/obj/",
+      "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Linq/Linq/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }

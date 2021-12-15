@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JacobTimms/WEB DEV/C# Lessons/YieldReturn/YieldReturnGSA/YieldReturnGSA/YieldReturnGSA.csproj",
+      "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/YieldReturn/YieldReturnGSA/YieldReturnGSA/YieldReturnGSA.csproj",
       "projectName": "YieldReturnGSA",
-      "projectPath": "/Users/JacobTimms/WEB DEV/C# Lessons/YieldReturn/YieldReturnGSA/YieldReturnGSA/YieldReturnGSA.csproj",
+      "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/YieldReturn/YieldReturnGSA/YieldReturnGSA/YieldReturnGSA.csproj",
       "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-      "outputPath": "/Users/JacobTimms/WEB DEV/C# Lessons/YieldReturn/YieldReturnGSA/YieldReturnGSA/obj/",
+      "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/YieldReturn/YieldReturnGSA/YieldReturnGSA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }

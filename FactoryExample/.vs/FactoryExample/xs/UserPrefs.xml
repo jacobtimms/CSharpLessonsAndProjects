@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D1948A82-B8BF-44BE-9A25-847120A396CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryExample/Program.cs">
+    <Files>
+      <File FileName="FactoryExample/Program.cs" Line="23" Column="14" />
+      <File FileName="FactoryExample/WriteToFIle.cs" Line="25" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryExample" expanded="True">
+            <Node name="FactoryExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FactoryExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
