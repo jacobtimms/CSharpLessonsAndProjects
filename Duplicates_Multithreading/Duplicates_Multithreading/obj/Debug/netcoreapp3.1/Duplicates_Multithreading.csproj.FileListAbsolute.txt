@@ -4,7 +4,6 @@
 /Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/bin/Debug/netcoreapp3.1/Duplicates_Multithreading.dll
 /Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/bin/Debug/netcoreapp3.1/Duplicates_Multithreading.pdb
 /Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/bin/Debug/netcoreapp3.1/FuzzySharp.dll
-/Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/bin/Debug/netcoreapp3.1/FuzzySharp.pdb
 /Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/obj/Debug/netcoreapp3.1/Duplicates_Multithreading.csproj.AssemblyReference.cache
 /Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/obj/Debug/netcoreapp3.1/Duplicates_Multithreading.GeneratedMSBuildEditorConfig.editorconfig
 /Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/obj/Debug/netcoreapp3.1/Duplicates_Multithreading.AssemblyInfoInputs.cache

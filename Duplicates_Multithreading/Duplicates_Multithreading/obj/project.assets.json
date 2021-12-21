@@ -3,22 +3,36 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "FuzzySharp/2.0.2": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "type": "package",
         "compile": {
-          "bin/placeholder/FuzzySharp.dll": {}
+          "lib/netcoreapp2.1/FuzzySharp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FuzzySharp.dll": {}
+          "lib/netcoreapp2.1/FuzzySharp.dll": {}
         }
       }
     }
   },
   "libraries": {
     "FuzzySharp/2.0.2": {
-      "type": "project",
-      "path": "../FuzzySharp-master/FuzzySharp/FuzzySharp.csproj",
-      "msbuildProject": "../FuzzySharp-master/FuzzySharp/FuzzySharp.csproj"
+      "sha512": "sBKqWxw3g//peYxDZ8JipRlyPbIyBtgzqBVA5GqwHVeqtIrw75maGXAllztf+1aJhchD+drcQIgf2mFho8ZV8A==",
+      "type": "package",
+      "path": "fuzzysharp/2.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fuzzysharp.2.0.2.nupkg.sha512",
+        "fuzzysharp.nuspec",
+        "lib/net45/FuzzySharp.dll",
+        "lib/net46/FuzzySharp.dll",
+        "lib/net461/FuzzySharp.dll",
+        "lib/netcoreapp2.0/FuzzySharp.dll",
+        "lib/netcoreapp2.1/FuzzySharp.dll",
+        "lib/netstandard1.6/FuzzySharp.dll",
+        "lib/netstandard2.0/FuzzySharp.dll",
+        "lib/netstandard2.1/FuzzySharp.dll"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -50,11 +64,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "/Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/FuzzySharp-master/FuzzySharp/FuzzySharp.csproj": {
-              "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/FuzzySharp-master/FuzzySharp/FuzzySharp.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -66,6 +76,12 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "FuzzySharp": {
+            "target": "Package",
+            "version": "[2.0.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

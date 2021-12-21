@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FuzzySharp-master\FuzzySharp\FuzzySharp.csproj" />
+    <None Remove="FuzzySharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FuzzySharp" Version="2.0.2" />
   </ItemGroup>
 </Project>

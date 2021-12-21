@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a5KYOKyvY1jAgm0eQNzI6ttBNEyQ1fxj5GV+HhNTsH7Mv1R/GC6yWqoyk/TdNJXsiKKLBi5J5QR5OK7W4K2Ncw==",
+  "dgSpecHash": "dwKxT1YF0gp9v/BW5s3joAdTr78EmI/TpQHRMGXwh5ryuRNKZeVG7d8Zka3ug08m+G/WAdeX1lBglceDohfbow==",
   "success": true,
   "projectFilePath": "/Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/Duplicates_Multithreading.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/JacobTimms/.nuget/packages/fuzzysharp/2.0.2/fuzzysharp.2.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
