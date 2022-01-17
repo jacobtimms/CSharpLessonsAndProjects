@@ -1,12 +1,5 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+Created a phonebook whilst adhering to strict requirements.
 
-\f0\fs24 \cf0 Created a phonebook whilst adhering to strict requirements.\
-\
-This allowed to get comfortable with basic unit testing and the concept of \'91Test Driven Development\'92.\
-\
-In hindsight, reading user inputs could have been neater - perhaps using a switch statement or dictionary .}
+This allowed to get comfortable with basic unit testing and the concept of 'Test Driven Development'.
+
+In hindsight, reading user inputs could have been neater - perhaps using a switch statement or dictionary .
