@@ -1,6 +1,5 @@
 ﻿using System;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BonsaiAPI.Controllers
