@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using FuzzySharp;
+using System.Diagnostics;
 
 namespace Duplicates_Multithreading
 {
@@ -10,65 +12,49 @@ namespace Duplicates_Multithreading
     {
         static void Main()
         {
-            List<string> names = new List<string>()
-            {
-                new string("Emmanuel"),
-                new string("Emma"),
-                new string("johnny"),
-                new string("Jason"),
-                new string("Jacob"),
-                new string("Sean"),
-                new string("David"),
-                new string("Davor"),
-                new string("Davidson"),
-                new string("Shawn"),
-                new string("Steve"),
-                new string("Jameson"),
-                new string("eric"),
-                new string("percival"),
-            };
+            string filepath = "/Users/JacobTimms/REPOS/C# Lessons/Duplicates_Multithreading/Duplicates_Multithreading/bin/Debug/netcoreapp3.1/PlaceNamesUkWithC.txt"
+            List<string> names = System.IO.File.ReadAllLines(filepath).ToList();
+
+            Stopwatch timer = new Stopwatch();
+            timer.Start();
 
             List<MatchedResults> results = new List<MatchedResults>();
 
             Parallel.ForEach(names, baseName =>
             {
-                int baseNamePos = names.IndexOf(baseName);
                 List<MatchedResults> comparativeValues = new List<MatchedResults>();
 
-                Parallel.ForEach(names, comparedName =>
+                foreach(string comparedName in names)
                 {
-
-                    int comparedNamePos = names.IndexOf(comparedName);
-
-                    if (comparedNamePos != baseNamePos)
+                    if (baseName != comparedName)
                     {
-                        int score = Fuzz.Ratio(baseName, comparedName);
+                        double score = Fuzz.Ratio(baseName, comparedName);
                         comparativeValues.Add(
                             new MatchedResults(baseName, comparedName, score)
                             );
                     }
-                });
-
-                var bestMatch = comparativeValues.OrderByDescending(x => x.Score).FirstOrDefault();
-                results.Add(bestMatch);
+                };
+                    var bestMatch = comparativeValues.OrderByDescending(x => x.Score).FirstOrDefault();
+                    results.Add(bestMatch);
             });
 
-            var orderedResults = results.OrderByDescending(x => x.Score).ToList();
-
+            var orderedResults = results.OrderByDescending(x => x.Score).AsEnumerable();
             foreach (var result in orderedResults)
             {
                 Console.WriteLine($"{result.Score}: {result.BaseName} -> {result.ComparedName}");
             }
 
+            timer.Stop();
+            Console.WriteLine(timer.Elapsed.ToString());
         }
 
         public class MatchedResults
         {
             public string BaseName { get; set; }
             public string ComparedName { get; set; }
-            public int Score { get; set; }
+            public double Score { get; set; }
 
-            public MatchedResults(string baseName, string comparedName, int score)
+            public MatchedResults(string baseName, string comparedName, double score)
             {
                 BaseName = baseName;
                 ComparedName = comparedName;
