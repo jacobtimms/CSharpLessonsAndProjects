@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{528ACE63-F02B-45E3-A9F3-41766FBF6035}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PnlGSA/Program.cs">
+    <Files>
+      <File FileName="PnlGSA/Program.cs" Line="1" Column="14" NotebookId="1" />
+      <File FileName="PnlGSA/StrategyPnl.cs" Line="21" Column="14" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PnlGSA" expanded="True">
+            <Node name="PnlGSA" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PnlGSA FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

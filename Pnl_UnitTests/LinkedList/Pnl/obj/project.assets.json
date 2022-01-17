@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/CsvPnl.csproj",
+      "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/CsvPnl.csproj",
       "projectName": "CsvPnl",
-      "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/CsvPnl.csproj",
+      "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/CsvPnl.csproj",
       "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-      "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/obj/",
+      "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }

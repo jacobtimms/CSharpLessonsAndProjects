@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/PnlTests/PnlTests.csproj": {}
+    "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/PnlTests/PnlTests.csproj": {}
   },
   "projects": {
-    "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/CsvPnl.csproj": {
+    "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/CsvPnl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/CsvPnl.csproj",
+        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/CsvPnl.csproj",
         "projectName": "CsvPnl",
-        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/CsvPnl.csproj",
+        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/CsvPnl.csproj",
         "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/obj/",
+        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -52,18 +52,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/PnlTests/PnlTests.csproj": {
+    "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/PnlTests/PnlTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/PnlTests/PnlTests.csproj",
+        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/PnlTests/PnlTests.csproj",
         "projectName": "PnlTests",
-        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/PnlTests/PnlTests.csproj",
+        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/PnlTests/PnlTests.csproj",
         "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/PnlTests/obj/",
+        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/PnlTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/CsvPnl.csproj": {
-                "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl/LinkedList/Pnl/CsvPnl.csproj"
+              "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/CsvPnl.csproj": {
+                "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Pnl_UnitTests/LinkedList/Pnl/CsvPnl.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
         }
       }
     }

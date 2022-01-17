@@ -1,0 +1,13 @@
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/bin/Debug/netcoreapp3.1/PnlGSA.deps.json
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/bin/Debug/netcoreapp3.1/PnlGSA.runtimeconfig.json
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/bin/Debug/netcoreapp3.1/PnlGSA.runtimeconfig.dev.json
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/bin/Debug/netcoreapp3.1/PnlGSA.dll
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/bin/Debug/netcoreapp3.1/PnlGSA.pdb
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.csproj.AssemblyReference.cache
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.AssemblyInfoInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.AssemblyInfo.cs
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.csproj.CoreCompileInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.dll
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.pdb
+/Users/JacobTimms/REPOS/C# Lessons/PnlGSA/PnlGSA/obj/Debug/netcoreapp3.1/PnlGSA.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/JacobTimms/WEB DEV/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj": {}
+    "/Users/JacobTimms/REPOS/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj": {}
   },
   "projects": {
-    "/Users/JacobTimms/WEB DEV/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj": {
+    "/Users/JacobTimms/REPOS/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/JacobTimms/WEB DEV/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj",
+        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj",
         "projectName": "DictionaryDemo",
-        "projectPath": "/Users/JacobTimms/WEB DEV/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj",
+        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/DictionaryDemo/DictionaryDemo/DictionaryDemo.csproj",
         "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-        "outputPath": "/Users/JacobTimms/WEB DEV/C# Lessons/DictionaryDemo/DictionaryDemo/obj/",
+        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/DictionaryDemo/DictionaryDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
         }
       }
     }

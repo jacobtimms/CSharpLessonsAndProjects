@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj": {}
+    "/Users/JacobTimms/REPOS/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj": {}
   },
   "projects": {
-    "/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj": {
+    "/Users/JacobTimms/REPOS/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj",
+        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj",
         "projectName": "LinkedLists_3",
-        "projectPath": "/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj",
+        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/LinkedLists_3/LinkedLists_3/LinkedLists_3.csproj",
         "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-        "outputPath": "/Users/JacobTimms/WEB DEV/C# Lessons/LinkedLists_3/LinkedLists_3/obj/",
+        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/LinkedLists_3/LinkedLists_3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
         }
       }
     }

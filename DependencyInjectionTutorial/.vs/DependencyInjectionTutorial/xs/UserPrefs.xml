@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{41611B99-D8AF-47A4-8693-2CBD22ED3246}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjectionTutorial/IOperation.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjectionTutorial/Program.cs">
     <Files>
       <File FileName="DependencyInjectionTutorial/Program.cs" Line="38" Column="69" />
       <File FileName="DependencyInjectionTutorial/IOperation.cs" Line="6" Column="36" />
@@ -14,7 +14,7 @@
         <State name="__root__">
           <Node name="DependencyInjectionTutorial" expanded="True">
             <Node name="DependencyInjectionTutorial" expanded="True">
-              <Node name="IOperation.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
