@@ -9,9 +9,9 @@ namespace PhoneBook
         {
             PhoneBook Phonebook = new PhoneBook();
 
-            if (File.Exists("/Users/JacobTimms/WEB DEV/C# Lessons/Phonebook/Phonebook/bin/Debug/netcoreapp3.1/Contacts.txt"))
+            if (File.Exists("/Users/JacobTimms/REPOS/C# Lessons/Phonebook/Phonebook/bin/Debug/netcoreapp3.1/Contacts.txt"))
             {
-                string[] storedContacts = System.IO.File.ReadAllLines("/Users/JacobTimms/WEB DEV/C# Lessons/Phonebook/Phonebook/bin/Debug/netcoreapp3.1/Contacts.txt");
+                string[] storedContacts = System.IO.File.ReadAllLines("/Users/JacobTimms/REPOS/C# Lessons/Phonebook/Phonebook/bin/Debug/netcoreapp3.1/Contacts.txt");
 
                 if (storedContacts.Length != 0)
                 {

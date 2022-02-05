@@ -11,3 +11,16 @@
 /Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.dll
 /Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.pdb
 /Users/JacobTimms/WEB DEV/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.genruntimeconfig.cache
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.1/PhoneBook.deps.json
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.1/PhoneBook.runtimeconfig.json
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.1/PhoneBook.runtimeconfig.dev.json
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.1/PhoneBook.dll
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.1/PhoneBook.pdb
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.csproj.AssemblyReference.cache
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.AssemblyInfoInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.AssemblyInfo.cs
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.dll
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.pdb
+/Users/JacobTimms/REPOS/C# Lessons/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.1/PhoneBook.genruntimeconfig.cache

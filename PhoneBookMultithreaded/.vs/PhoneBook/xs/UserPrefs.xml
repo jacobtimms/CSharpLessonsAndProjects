@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{BFA40314-6A79-47D0-B585-C13044AE9946}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneBook/Program.cs">
+    <Files>
+      <File FileName="PhoneBook/Program.cs" Line="14" Column="95" />
+      <File FileName="PhoneBook/WriteToFile.cs" Line="19" Column="10" />
+      <File FileName="PhoneBook.Testing/PhoneBook.Testing.cs" Line="71" Column="93" />
+      <File FileName="PhoneBook/PhoneBook.cs" Line="106" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhoneBook" expanded="True">
+            <Node name="PhoneBook" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="PhoneBook.Testing" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PhoneBook" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PhoneBook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
