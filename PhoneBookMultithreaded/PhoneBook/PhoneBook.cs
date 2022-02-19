@@ -32,14 +32,18 @@ namespace PhoneBook
             }
 
             int nameHash = name.GetStableHashCode();
-            Parallel.ForEach(Contacts, contact =>
+
+            lock (Contacts)
             {
-                if (nameHash == contact.Key)
+                Parallel.ForEach(Contacts, contact =>
                 {
-                    throw new ArgumentException("This name is already taken by another contact");
-                }
-            });
-            Contacts.Add(nameHash, phoneNo);
+                    if (nameHash == contact.Key)
+                    {
+                        throw new ArgumentException("This name is already taken by another contact");
+                    }
+                });
+                Contacts.Add(nameHash, phoneNo);
+            }
 
             Console.WriteLine($"OK");
             return Contacts[nameHash];
@@ -77,7 +81,10 @@ namespace PhoneBook
                 Console.WriteLine($"OK {Contacts[nameHash]:D11}");
 
                 long num = Contacts[nameHash];
-                Contacts.Remove(nameHash);
+                lock (Contacts)
+                {
+                    Contacts.Remove(nameHash);
+                }
                 return num;
             }
             else
@@ -95,9 +102,9 @@ namespace PhoneBook
                     lock (Contacts)
                     {
                         Contacts.Remove(nameHash);
-                        Console.WriteLine("OK");
-                        return;
                     }
+                    Console.WriteLine("OK");
+                    return;
                 }
                 else
                 {
@@ -124,7 +131,10 @@ namespace PhoneBook
                 }
                 Console.WriteLine($"OK last no was - {Contacts[nameHash]:D11}");
 
-                Contacts[nameHash] = phoneNo;
+                lock (Contacts)
+                {
+                    Contacts[nameHash] = phoneNo;
+                }
                 return Contacts[nameHash];
             }
             else

@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{BFA40314-6A79-47D0-B585-C13044AE9946}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneBook/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneBook/PhoneBook.cs">
     <Files>
       <File FileName="PhoneBook/Program.cs" Line="14" Column="95" />
-      <File FileName="PhoneBook/WriteToFile.cs" Line="19" Column="10" />
+      <File FileName="PhoneBook/WriteToFile.cs" Line="21" Column="14" />
+      <File FileName="PhoneBook/PhoneBook.cs" Line="33" Column="1" />
       <File FileName="PhoneBook.Testing/PhoneBook.Testing.cs" Line="71" Column="93" />
-      <File FileName="PhoneBook/PhoneBook.cs" Line="106" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PhoneBook" expanded="True">
             <Node name="PhoneBook" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="PhoneBook.cs" selected="True" />
             </Node>
             <Node name="PhoneBook.Testing" expanded="True">
               <Node name="Dependencies" expanded="True" />

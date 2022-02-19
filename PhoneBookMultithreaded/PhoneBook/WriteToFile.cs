@@ -9,12 +9,15 @@ namespace PhoneBook
     {
         internal static void writeTextFileToDictionary(Dictionary<int, long> Contacts)
         {
-            using (StreamWriter file = new StreamWriter("Contacts.txt"))
+            lock (Contacts)
             {
-                Parallel.ForEach(Contacts, contact =>
+                using (StreamWriter file = new StreamWriter("Contacts.txt"))
                 {
-                    file.WriteLine($"{contact.Key}, {contact.Value:D11}");
-                });
+                    Parallel.ForEach(Contacts, contact =>
+                    {
+                        file.WriteLine($"{contact.Key}, {contact.Value:D11}");
+                    });
+                }
             }
         }
 
