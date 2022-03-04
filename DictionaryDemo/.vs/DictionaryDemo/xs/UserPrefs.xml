@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{9A9E5D74-9524-4264-8E54-8CF371A0399F}|Default">
   <MonoDevelop.Ide.ItemProperties.DictionaryDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DictionaryDemo/Country.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DictionaryDemo/Program.cs">
     <Files>
       <File FileName="DictionaryDemo/Program.cs" Line="20" Column="55" />
       <File FileName="DictionaryDemo/Country.cs" Line="30" Column="1" />
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="DictionaryDemo" expanded="True">
             <Node name="DictionaryDemo" expanded="True">
-              <Node name="Country.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

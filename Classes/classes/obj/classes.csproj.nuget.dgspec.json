@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/JacobTimms/REPOS/C# Lessons/C# Intro/classes/classes/classes.csproj": {}
+    "/Users/JacobTimms/REPOS/C# Lessons/Classes/classes/classes.csproj": {}
   },
   "projects": {
-    "/Users/JacobTimms/REPOS/C# Lessons/C# Intro/classes/classes/classes.csproj": {
+    "/Users/JacobTimms/REPOS/C# Lessons/Classes/classes/classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/C# Intro/classes/classes/classes.csproj",
+        "projectUniqueName": "/Users/JacobTimms/REPOS/C# Lessons/Classes/classes/classes.csproj",
         "projectName": "classes",
-        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/C# Intro/classes/classes/classes.csproj",
+        "projectPath": "/Users/JacobTimms/REPOS/C# Lessons/Classes/classes/classes.csproj",
         "packagesPath": "/Users/JacobTimms/.nuget/packages/",
-        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/C# Intro/classes/classes/obj/",
+        "outputPath": "/Users/JacobTimms/REPOS/C# Lessons/Classes/classes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/JacobTimms/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
         }
       }
     }

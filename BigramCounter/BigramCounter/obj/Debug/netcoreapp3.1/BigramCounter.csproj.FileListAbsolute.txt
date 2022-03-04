@@ -11,3 +11,16 @@
 /Users/JacobTimms/WEB DEV/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.pdb
 /Users/JacobTimms/WEB DEV/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.genruntimeconfig.cache
 /Users/JacobTimms/WEB DEV/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/bin/Debug/netcoreapp3.1/BigramCounter.deps.json
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/bin/Debug/netcoreapp3.1/BigramCounter.runtimeconfig.json
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/bin/Debug/netcoreapp3.1/BigramCounter.runtimeconfig.dev.json
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/bin/Debug/netcoreapp3.1/BigramCounter.dll
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/bin/Debug/netcoreapp3.1/BigramCounter.pdb
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.csproj.AssemblyReference.cache
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.AssemblyInfoInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.AssemblyInfo.cs
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.csproj.CoreCompileInputs.cache
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.dll
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.pdb
+/Users/JacobTimms/REPOS/C# Lessons/BigramCounter/BigramCounter/obj/Debug/netcoreapp3.1/BigramCounter.genruntimeconfig.cache
